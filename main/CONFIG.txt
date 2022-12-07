@@ -1,0 +1,1 @@
+{"frequencyRefrashBaseValue": "20", "minChangeABS": "5", "frequencyRefrashRealValue": "0.5"}
